@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<title>Effe</title>
+<title>Effe | Portfolio</title>
 <meta charset="utf-8">
 <!-- Load CSS -->
 <link href="css/style.css" rel="stylesheet" type="text/css">
@@ -15,6 +15,8 @@
 <script src="scripts/custom.js"></script>
 <!-- Load topcontrol js -->
 <script src="scripts/scrolltopcontrol.js"></script>
+<!-- Load quicksand script -->
+<script src="scripts/jquery.quicksand.js"></script>
 <!-- Load NIVO Slider -->
 <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen">
 <link rel="stylesheet" href="css/nivo-theme.css" type="text/css" media="screen">
@@ -31,10 +33,10 @@
 <div id="topcontrol" style="position: fixed; bottom: 5px; left: 960px; opacity: 1; cursor: pointer;"></div>
 <div id="header-wrapper">
   <div id="header">
-    <div id="logo"> <a href="index.html"><img src="images/logo.png" width="100" height="80" alt=""></a> </div>
+    <div id="logo"><a href="index.html"><img src="images/logo.png" width="100" height="80" alt=""></a></div>
     <div id="header-text">
-      <h4>We make a bunch of cool stuff, have a look around!</h4>
-      <h6><a href="index.html">Home</a></h6>
+      <h4>This is our portfolio, our latest stuff is here!</h4>
+      <h6><a href="index.html">Home</a> &rarr; Portfolio</h6>
     </div>
   </div>
 </div>
@@ -43,9 +45,9 @@
 <div id="menu-wrapper">
   <div id="main-menu">
     <ul>
-      <li><a class="selected" href="index.html">Home &rarr;</a></li>
+      <li><a href="index.html">Home</a></li>
       <li><a href="about.html">About</a></li>
-      <li><a href="portfolio.html">Portfolio</a></li>
+      <li><a class="selected" href="portfolio.html">Portfolio &rarr;</a></li>
       <li><a href="blog.html">Blog</a></li>
       <li><a href="contact.html">Contact</a></li>
       <li><a href="features.html">Features</a></li>
@@ -74,56 +76,47 @@
 <!--END of menu-->
 <!--This is the START of the content-->
 <div id="content">
-  <!--This is the START of the NIVO slider-->
-  <div class="slider-wrapper theme-effe">
-    <div id="slider" class="nivoSlider"> <img src="images/slider/slide1.jpg" alt=""> <img src="images/slider/slide2.jpg" alt=""> <img src="images/slider/slide3.jpg" alt=""> <img src="images/slider/slide4.jpg" alt=""> </div>
-  </div>
-  <!--END of NIVO Slider-->
-  <!--This is the START of the recent posts-->
+  <!--This is the START of the portfolio section-->
   <div class="spacer"></div>
-  <div id="recent-text">
-    <h2>These are some of our latest posts...</h2>
-    <div class="star-divider"></div>
-    <h5>You can check them out in our blog section!</h5>
-    <div class="spacer"></div>
+  <div id="filter"></div>
+  <img src="images/star_divider.png" alt="" class="star-divider">
+  <div id="container">
+    <ul id="stage">
+      <li data-tags="Print Design"><a href="project-sample.html"><img src="images/portfolio/thumbs/image(1).jpg" alt=""></a>
+        <h6>Helvetica</h6>
+        <p>Kinda sweet huh?<a class="readmore" href="project-sample.html">view &rarr;</a></p>
+      </li>
+      <li data-tags="Logo Design,Print Design"><a href="project-sample.html"><img src="images/portfolio/thumbs/image(2).jpg" alt=""></a>
+        <h6>Typography</h6>
+        <p>Lorem ipsum here.<a class="readmore" href="project-sample.html">view &rarr;</a></p>
+      </li>
+      <li data-tags="Web Design,Logo Design"><a href="project-sample.html"><img src="images/portfolio/thumbs/image(3).jpg" alt=""></a>
+        <h6>Ideas</h6>
+        <p>A light bulb!<a class="readmore" href="project-sample.html">view &rarr;</a></p>
+      </li>
+      <li data-tags="Web Design,Print Design"><a href="project-sample.html"><img src="images/portfolio/thumbs/image(4).jpg" alt=""></a>
+        <h6>Rockable press</h6>
+        <p>Best books around.<a class="readmore" href="project-sample.html">view &rarr;</a></p>
+      </li>
+      <li data-tags="Logo Design"><a href="project-sample.html"><img src="images/portfolio/thumbs/image(5).jpg" alt=""></a>
+        <h6>Moo Cards</h6>
+        <p>Gotta lovem'.<a class="readmore" href="project-sample.html">view &rarr;</a></p>
+      </li>
+      <li data-tags="Web Design,Logo Design,Print Design"><a href="project-sample.html"><img src="images/portfolio/thumbs/image(6).jpg" alt=""></a>
+        <h6>Moo Minicards</h6>
+        <p>So small and cool.<a class="readmore" href="project-sample.html">view &rarr;</a></p>
+      </li>
+      <li data-tags="Logo Design,Print Design"><a href="project-sample.html"><img src="images/portfolio/thumbs/image(7).jpg" alt=""></a>
+        <h6>Moo Printing</h6>
+        <p>Is inside.<a class="readmore" href="project-sample.html">view &rarr;</a></p>
+      </li>
+      <li data-tags="Web Design"><a href="project-sample.html"><img src="images/portfolio/thumbs/image(8).jpg" alt=""></a>
+        <h6>Just say it!</h6>
+        <p>Printed.<a class="readmore" href="project-sample.html">view &rarr;</a></p>
+      </li>
+    </ul>
   </div>
-  <div id="recent-posts-container">
-    <div class="section-description">
-      <h5>Recent posts</h5>
-      <p>Here you can find some of our most recent and fresh content...</p>
-    </div>
-    <div class="recent-summary">
-      <div class="recent-item"> <a class="single_image" href="images/blog/large/recent1.jpg"><img src="images/blog/thumbs/recent1.jpg" width="250" height="150" alt=""></a>
-        <h6>NYC</h6>
-        <p>On a scooter?<a class="readmore" href="blog.html">read more &rarr;</a></p>
-      </div>
-      <div class="recent-item-last"> <a class="single_image" href="images/blog/large/recent2.jpg"><img src="images/blog/thumbs/recent2.jpg" width="250" height="150" alt=""></a>
-        <h6>Feathers</h6>
-        <p>Could drop some lorem here.<a class="readmore" href="blog.html">read more &rarr;</a></p>
-      </div>
-    </div>
-    <!--END of recent posts-->
-    <!--This is the START of the recent projects-->
-    <div id="recent-projects-container">
-      <div class="section-description">
-        <h5>Recent projects</h5>
-        <p>These are some of our latest projects, some nice stuff in here...</p>
-      </div>
-      <div class="recent-summary">
-        <div class="recent-item"> <a class="single_image" href="images/portfolio/thumbs/recent1.jpg"><img src="images/portfolio/thumbs/recent1.jpg" width="250" height="150" alt=""></a>
-          <h6>Moo Minicards</h6>
-          <p>Kinda sweet huh?<a class="readmore" href="portfolio.html">read more &rarr;</a></p>
-        </div>
-        <div class="recent-item-last"> <a class="single_image" href="images/portfolio/thumbs/recent2.jpg"><img src="images/portfolio/thumbs/recent2.jpg" width="250" height="150" alt=""></a>
-          <h6>Right off the press!</h6>
-          <p>Could drop some lorem here.<a class="readmore" href="portfolio.html">read more &rarr;</a></p>
-        </div>
-      </div>
-      <!--END of recent projects-->
-      <div class="spacer"></div>
-      <!--END of content-->
-    </div>
-  </div>
+  <!--END of portfolio section-->
 </div>
 <!--END of content-->
 <p class="slide"><a href="#" class="btn-slide"></a></p>

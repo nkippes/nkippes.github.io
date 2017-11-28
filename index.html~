@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Plant Breeding and Genetics</title>
+    <title>Draco by @flamekaizar</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="Nestor Kippes">
+    <meta name="description" content="Draco is free PSD &amp; HTML template by @flamekaizar">
+    <meta name="author" content="Afnizar Nur Ghifari">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="css/kube.min.css" />
     <link rel="stylesheet" href="css/font-awesome.min.css" />
@@ -25,14 +26,14 @@
 		<div class="container">
 			<header class="group top-nav">
 				<div class="navigation-toggle" data-tools="navigation-toggle" data-target="#navbar-1">
-				    <span class="logo">LOGO</span>
+				    <span class="logo">DRACO</span>
 				</div>
 			    <nav id="navbar-1" class="navbar item-nav">
 				    <ul>
-				        <li class="active"><a href="#about">CV</a></li>
-				        <li><a href="#experiences">Research</a></li>
-				        <li><a href="#achievements">Contact</a></li>
-				        <li><a href="#skills">Resources</a></li>
+				        <li class="active"><a href="#about">About</a></li>
+				        <li><a href="#experiences">Experiences</a></li>
+				        <li><a href="#achievements">Achievements</a></li>
+				        <li><a href="#skills">Skills</a></li>
 				    </ul>
 				</nav>
 			</header>
@@ -42,7 +43,7 @@
 	<!-- Introduction -->
 	<div class="intro section" id="about">
 		<div class="container">
-			<p>Nestor Kippes</p>
+			<p>Hi, I’m Draco the Dragon</p>
 			<div class="units-row units-split wrap">
 				<div class="unit-20">
 					<img src="img/ava.jpg" alt="Avatar">
@@ -51,9 +52,7 @@
 					<h1>I live in<br><span id="typed"></span></h1>					
 				</div>
 				<p>
-					My research interests are mainly focused in Plant Breeding, Genetics and Functional Genomics. Currently I’m using genetics, high-throughput sequencing and biochemistry to decipher the molecular mechanisms that control important agronomic characteristics of plants.
-
-​I am especially interested in the discovery and deployment of genes controlling relevant aspects of development and their utilization to produce improved ​crop varieties.  
+					Draco is a constellation in the far northern sky. Its name is Latin for dragon. Draco is circumpolar (that is, never setting) for many observers in the northern hemisphere. It was one of the 48 constellations listed by the 2nd century astronomer Ptolemy. 
 				</p>				
 			</div>
 		</div>

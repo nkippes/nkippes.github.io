@@ -27,7 +27,7 @@
 
 		<!-- Header -->
 			<header id="header" class="skel-layers-fixed">
-			<h1><a href="index.html">nfkippes<span>at ucdavis.edu</span></a></h1>	
+			<h1><a href="index.html">nfkippes at<span>ucdavis.edu</span></a></h1>	
 				<nav id="nav">
 					<ul>
 						<li><a href="index.html">Home</a></li>
@@ -66,10 +66,8 @@
 							<!-- Sidebar -->
 								<section id="sidebar">
 									<section>
-										<h3>About</h3>
-										<p>My research interests are mainly focused in Plant Breeding, Genetics and Functional Genomics. Currently I’m using genetics, high-throughput sequencing and biochemistry to decipher the molecular mechanisms that control important agronomic characteristics of plants.
-
-​I am especially interested in the discovery and deployment of genes controlling relevant aspects of development and their utilization to produce improved ​crop varieties. </p>
+										<h3>Magna Feugiat</h3>
+										<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit..</p>
 										<footer>
 											<ul class="actions">
 												<li><a href="#" class="button small alt">Learn More</a></li>

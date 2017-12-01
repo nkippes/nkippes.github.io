@@ -27,7 +27,7 @@
 
 		<!-- Header -->
 			<header id="header" class="skel-layers-fixed">
-			<h1><a href="index.html">nfkippes at<span>ucdavis.edu</span></a></h1>	
+			<h1><a href="index.html">HTML5 Website <span>by Html5webtemplates.co.uk</span></a></h1>	
 				<nav id="nav">
 					<ul>
 						<li><a href="index.html">Home</a></li>
@@ -56,8 +56,8 @@
 		<!-- Main -->
 			<section id="main" class="wrapper style1">
 				<header class="major">
-					<h2>Nestor Kippes</h2>
-					<p>Plant Breding, Genetics & Biotechnology</p>
+					<h2>Left Sidebar</h2>
+					<p>Faucibus neque adipiscing mi lorem semper blandit</p>
 				</header>
 				<div class="container">
 					<div class="row 150%">

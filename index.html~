@@ -39,7 +39,7 @@
 		<!-- Main -->
 			<section id="main" class="wrapper style1">
 				<header class="major">
-					<h2>Nestor Kippes</h2>
+					<h2>Néstor Kippes</h2>
 					<p>Plant Breding, Genetics & Biotechnology</p>
 				</header>
 				<div class="container">
@@ -50,6 +50,11 @@
 								<section id="sidebar">
 									<section>
 										<h3>About</h3>
+										<img src="images/8234803.png" alt="" />
+									
+										<p><a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=kippes+n">Pubmed</a>
+										<a href="https://scholar.google.com/citations?user=-m5FPboAAAAJ&hl=en&oi=ao">My google scholar</a>
+										<a href="http://orcid.org/0000-0002-5852-1963">ORCID</a></p>
 										<p>My research interests are mainly focused in Plant Breeding, Genetics and Functional Genomics. Currently I’m using genetics, high-throughput sequencing and biochemistry to decipher the molecular mechanisms that control important agronomic characteristics of plants.
 
 ​I am especially interested in the discovery and deployment of genes controlling relevant aspects of development and their utilization to produce improved ​crop varieties. </p>
@@ -102,6 +107,11 @@ Unfortunately,  plant breeding has only been focused on a small number of crops,
 			
 		<!-- Footer -->
 			<footer id="footer">
+			<p>"Nothing is built on stone; all is built on sand, but we must build as if the sand were stone." – Jorge Luis Borges</p>
+
+				<p>“A good leader is a person who takes a little more than his share of the blame and a little less than his share of the credit.” – John Maxwell</p>
+				
+				
 				<ul class="icons">
 					<li><a href="https://www.twitter.com/nfkip" class="icon fa-twitter" alt="my twitter" target="_blank"><span class="label">Twitter</span></a></li>
 					<li><a href="#" class="icon fa-instagram" alt="Instagram" target="_blank"><span class="label">Instagram</span></a></li>
@@ -109,6 +119,7 @@ Unfortunately,  plant breeding has only been focused on a small number of crops,
 					<li><a href="mailto:nfkippes@ucdavis.edu" class="icon fa-envelope" alt="send email" target="_blank"><span class="label">Envelope</span></a></li>
 				</ul>
 				<span class="copyright">
+			
 				&copy; Copyright. All rights reserved. Design by <a href="http://www.html5webtemplates.co.uk">Responsive Web Templates</a>	
 				</span>
 			</footer>

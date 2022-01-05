@@ -5,24 +5,10 @@ layout: default
 I am a Plant Scientist at the University of California Davis specializing in Plant Breeding and Genetics. Exploring the fields of Genetics and Genomics and their applications to Plant Breeding. Currently focused on combining classic and modern plant breeding tools to produce superior plant varieties. 
 
 **bold**, _italic_, or ~~strikethrough~~.
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=-m5FPboAAAAJ&view_op=list_works&sortby=pubdate).
+**[Google Scholar]**(https://scholar.google.com/citations?hl=en&user=-m5FPboAAAAJ&view_op=list_works&sortby=pubdate).
 [Publons](https://publons.com/researcher/720901/nestor-kippes/).
 [Twitter](https://www.twitter.com/nfkip).
 [Linkedin](https://www.linkedin.com/in/nestorkippes/).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Professional Experience
 
@@ -33,17 +19,11 @@ PostDoc - Plant Sciences Department - University of California Davis / Jan 2016 
 Visiting PhD Student - Plant Sciences Department - University of California Davis / 2010 - 2015
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
 #### Education
-
+```js
 *   PhD Agronomic Sciences - University of Buenos Aires, Buenos Aires, Argentina - 2015
 *   BS/MS. Biotechnology - National University of San Martin, Buenos Aires, Argentina - 2010 
+```
 
 ##### Header 5
 

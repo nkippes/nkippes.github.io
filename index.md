@@ -43,10 +43,10 @@ end
 
 #### Experience
 
-*   Assistant Project Scientist | Genome Center | University of California Davis | Nov 2021 - current
-*   Postdoctoral Researcher | Genome Center | University of California Davis | Nov 2016 - Oct 2021
-*   Postdoctoral Researcher | Plant Sciences Department | University of California Davis | Jan 2016 - Oct 2016
-*   Visiting PhD Student | Plant Sciences Department | University of California Davis | Dec 2010 - Dec 2015
+*   Assistant Project Scientist - Genome Center - University of California Davis / Nov 2021 - current
+*   Postdoctoral Researcher - Genome Center - University of California Davis / Nov 2016 - Oct 2021
+*   Postdoctoral Researcher - Plant Sciences Department - University of California Davis / Jan 2016 - Oct 2016
+*   Visiting PhD Student - Plant Sciences Department - University of California Davis / Dec 2010 - Dec 2015
 
 ##### Header 5
 

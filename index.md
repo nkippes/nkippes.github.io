@@ -64,11 +64,11 @@ wheat. **Kippes N** et al. [Mol Genet Genomics 2014](https://doi.org/10.1007/s00
 English (Full professional proficiency) and Spanish (Native)
 
 #### News
-[LINKEDIN | Hot N Cold: Menthol and temperature perception. Plants have found intricated ways to hack human temperature perception](https://www.linkedin.com/pulse/hot-n-cold-menthol-temperature-perception-nestor-kippes/)
+[LINKEDIN: Hot N Cold. Menthol and temperature perception. Plants have found intricated ways to hack human temperature perception](https://www.linkedin.com/pulse/hot-n-cold-menthol-temperature-perception-nestor-kippes/)
 
 [UC DAVIS: Fourth Wheat Gene is Key to Flowering and Climate Adaptation](https://www.plantsciences.ucdavis.edu/news/fourth-wheat-gene-key-flowering-and-climate-adaptation)
 
-[MOORE FOUNDATION | In a recent study, plant scientists share their discovery of a new gene](https://www.moore.org/article-detail?newsUrlName=study-finds-new-gene-important-for-development-of-wheat)
+[MOORE FOUNDATION: In a recent study, plant scientists share their discovery of a new gene](https://www.moore.org/article-detail?newsUrlName=study-finds-new-gene-important-for-development-of-wheat)
 
 
 

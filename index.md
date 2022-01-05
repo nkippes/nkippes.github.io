@@ -24,7 +24,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Profesional Experience
+### Professional Experience
 
 ```js
 Assistant Project Scientist - Genome Center - University of California Davis / Nov 2021 - current
@@ -40,12 +40,10 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Experience
+#### Education
 
-*   Assistant Project Scientist - Genome Center - University of California Davis / Nov 2021 - current
-*   Postdoctoral Researcher - Genome Center - University of California Davis / Nov 2016 - Oct 2021
-*   Postdoctoral Researcher - Plant Sciences Department - University of California Davis / Jan 2016 - Oct 2016
-*   Visiting PhD Student - Plant Sciences Department - University of California Davis / Dec 2010 - Dec 2015
+*   PhD Agronomic Sciences - University of Buenos Aires, Buenos Aires, Argentina - 2015
+*   BS/MS. Biotechnology - National University of San Martin, Buenos Aires, Argentina - 2010 
 
 ##### Header 5
 

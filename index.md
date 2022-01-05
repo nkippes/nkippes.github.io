@@ -23,38 +23,38 @@ Visiting PhD Student - Plant Sciences Department - University of California Davi
 
 ##### Publications
 
-9. Diploid mint (M. longifolia) can produce spearmint type oil with a high yield potential.
-Kippes N et al. Nature Sci Rep 2021 doi:10.1038/s41598-021-02835-6
+9. Diploid mint (_M. longifolia_) can produce spearmint type oil with a high yield potential.
+**Kippes N** et al. Nature Sci Rep 2021 doi:10.1038/s41598-021-02835-6
 
-8. Efficient construction of a linkage map and haplotypes for Mentha suaveolens using
+8. Efficient construction of a linkage map and haplotypes for _Mentha suaveolens_ using
 sequence capture. Tsai H et al. G3 2021 doi: 10.1093/g3journal/jkab232
 
-7. Effect of phyB and phyC loss-of-function mutations on the wheat transcriptome under
+7. Effect of _PHYB_ and _PHYC_ loss-of-function mutations on the wheat transcriptome under
 short and long day photoperiods.
-Kippes N et al. BMC Plant Biol 2020 doi: 10.1186/s12870-016-0831-3
+**Kippes N** et al. BMC Plant Biol 2020 doi: 10.1186/s12870-016-0831-3
 
-6. Single Nucleotide Polymorphisms in a regulatory site of VRN-A1 first intron are
+6. Single Nucleotide Polymorphisms in a regulatory site of _VRN-A1_ first intron are
 associated with differences in vernalization requirement lenght of winter wheat.
-Kippes N et al. Mol Genet Genomics 2018 doi: 10.1007/s00438-018-1455-0
+**Kippes N** et al. Mol Genet Genomics 2018 doi: 10.1007/s00438-018-1455-0
 
-5. RNA-seq studies using wheat PHYB and PHYC mutants reveal shared and specific
+5. RNA-seq studies using wheat _PHYB_ and _PHYC_ mutants reveal shared and specific
 functions in the regulation of flowering and shade-avoidance pathways.
 Pearce S et al. BMC Plant Biol 2016 doi: 10.1186/s12870-016-0831-3
 
 4. Development and characterization of a spring hexaploid wheat line with no functional
-VRN2 genes. Kippes N et al.Theor Appl Genet 2016 doi:
+_VRN2_ genes. **Kippes N** et al.Theor Appl Genet 2016 doi:
 10.1007/s00122-016-2713-3
 
 3. Genetic and physical mapping of the earliness per se locus Eps-Am1 in Triticum
-monococcum identifies EARLY FLOWERING 3 (ELF3) as a candidate gene.
+monococcum identifies _EARLY FLOWERING 3_ (_ELF3_) as a candidate gene.
 Alvarez MA et al. Funct Integr Genomics 2016 doi: 10.1007/s10142-016-0490-3
 
-2. Identification of the VERNALIZATION 4 gene reveals the origin of spring growth habit
+2. Identification of the _VERNALIZATION 4_ gene reveals the origin of spring growth habit
 in ancient wheats from South Asia.
-Kippes N at al. Proc Natl Acad Sci USA 2015 doi: 10.1073/pnas.1514883112
+**Kippes N** at al. Proc Natl Acad Sci USA 2015 doi: 10.1073/pnas.1514883112
 
-1. Fine mapping and epistatic interactions of the vernalization gene VRN-D4 in hexaploid
-wheat. Kippes N et al. Mol Genet Genomics 2014 doi: 10.1007/s00438-013-0788-y
+1. Fine mapping and epistatic interactions of the vernalization gene _VRN-D4_ in hexaploid
+wheat. **Kippes N** et al. Mol Genet Genomics 2014 doi: 10.1007/s00438-013-0788-y
 
 
 

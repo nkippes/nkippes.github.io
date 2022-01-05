@@ -5,8 +5,10 @@ layout: default
 I am a Plant Scientist at the University of California Davis specializing in Plant Breeding and Genetics. Exploring the fields of Genetics and Genomics and their applications to Plant Breeding. Currently focused on combining classic and modern plant breeding tools to produce superior plant varieties. 
 
 **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=-m5FPboAAAAJ&view_op=list_works&sortby=pubdate).
+[Publons](https://publons.com/researcher/720901/nestor-kippes/).
+[Twitter](https://www.twitter.com/nfkip).
+[Linkedin](https://www.linkedin.com/in/nestorkippes/).
 
 There should be whitespace between paragraphs.
 
@@ -121,5 +123,6 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 
 ```
-The final element.
+“Educating the mind without educating the heart is no education at all.”
+― Aristotle.
 ```

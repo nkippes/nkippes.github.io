@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+![Octocat](https://github.com/nkippes/nkippes.github.io/blob/a217af9dc77e50b1baa8540ae7201b2c7f1fbb0e/nk.jpg)
 
 I am a Plant Scientist at the University of California Davis specializing in Plant Breeding and Genetics. Exploring the fields of Genetics and Genomics and their applications to Plant Breeding. Currently focused on combining classic and modern plant breeding tools to produce superior plant varieties. 
 

@@ -39,7 +39,7 @@ associated with differences in vernalization requirement lenght of winter wheat.
 
 5. RNA-seq studies using wheat _PHYB_ and _PHYC_ mutants reveal shared and specific
 functions in the regulation of flowering and shade-avoidance pathways.
-Pearce S et al. BMC Plant Biol 2016 doi: 10.1186/s12870-016-0831-3
+Pearce S et al. BMC Plant Biol 2016 doi: [doi:10.1186/s12870-020-02506-0] (https://doi.org/10.1186/s12870-020-02506-0)
 
 4. Development and characterization of a spring hexaploid wheat line with no functional
 _VRN2_ genes. **Kippes N** et al.Theor Appl Genet 2016 doi:

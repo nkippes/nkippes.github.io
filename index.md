@@ -6,9 +6,12 @@ I am a Plant Scientist at the University of California Davis specializing in Pla
 
 [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=-m5FPboAAAAJ&view_op=list_works&sortby=pubdate) - [**Publons**](https://publons.com/researcher/720901/nestor-kippes/) - [**Twitter**](https://www.twitter.com/nfkip) - [**Linkedin**](https://www.linkedin.com/in/nestorkippes/)
 
+#### Skills
+Plant Breeding / Polyploid Crops / Agricultural Sciences / Plant Biotechnology
+
 ### Professional Experience
 
-```
+```js
 Assistant Project Scientist - Genome Center - University of California Davis / Nov 2021 - current
 PostDoc - Genome Center - University of California Davis / Nov 2016 - Oct 2021
 PostDoc - Plant Sciences Department - University of California Davis / Jan 2016 - Oct 2016
@@ -16,7 +19,7 @@ Visiting PhD Student - Plant Sciences Department - University of California Davi
 ```
 
 #### Education
-```
+```js
 *   PhD Agronomic Sciences - University of Buenos Aires, Buenos Aires, Argentina - 2015
 *   BS/MS. Biotechnology - National University of San Martin, Buenos Aires, Argentina - 2010 
 ```
@@ -58,6 +61,10 @@ wheat. **Kippes N** et al. [Mol Genet Genomics 2014](https://doi.org/10.1007/s00
 #### Languages
 
 English (Full professional proficiency) and Spanish (Native)
+
+
+
+
 
 ```
 “Educating the mind without educating the heart is no education at all.”

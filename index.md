@@ -9,7 +9,7 @@ I am a Plant Scientist at the University of California Davis specializing in Pla
 #### Skills
 Plant Breeding / Polyploid Crops / Agricultural Sciences / Plant Biotechnology
 
-### Professional Experience
+#### Professional Experience
 
 ```js
 Assistant Project Scientist - Genome Center - University of California Davis / Nov 2021 - current
@@ -24,7 +24,7 @@ Visiting PhD Student - Plant Sciences Department - University of California Davi
 *   BS/MS. Biotechnology - National University of San Martin, Buenos Aires, Argentina - 2010 
 ```
 
-##### Publications
+#### Publications
 
 1. Diploid mint (_M. longifolia_) can produce spearmint type oil with a high yield potential.
 **Kippes N** et al. [Nature Sci Rep 2021](https://doi.org/10.1038/s41598-021-02835-6)

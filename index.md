@@ -24,13 +24,13 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Profesional Experience
 
 ```js
 Assistant Project Scientist - Genome Center - University of California Davis / Nov 2021 - current
-Postdoctoral Researcher - Genome Center - University of California Davis / Nov 2016 - Oct 2021
-Postdoctoral Researcher - Plant Sciences Department - University of California Davis / Jan 2016 - Oct 2016
-Visiting PhD Student - Plant Sciences Department - University of California Davis / Dec 2010 - Dec 2015
+PostDoc - Genome Center - University of California Davis / Nov 2016 - Oct 2021
+PostDoc - Plant Sciences Department - University of California Davis / Jan 2016 - Oct 2016
+Visiting PhD Student - Plant Sciences Department - University of California Davis / 2010 - 2015
 ```
 
 ```ruby

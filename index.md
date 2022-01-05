@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am a Plant Scientist at the University of California Davis specializing in Plant Breeding and Genetics. Exploring the fields of Genetics and Genomics and their applications to Plant Breeding. Currently focused on combining classic and modern plant breeding tools to produce superior plant varieties. 
+
+**bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 

@@ -8,7 +8,7 @@ I am a Plant Scientist at the University of California Davis specializing in Pla
 
 ### Professional Experience
 
-```js
+```
 Assistant Project Scientist - Genome Center - University of California Davis / Nov 2021 - current
 PostDoc - Genome Center - University of California Davis / Nov 2016 - Oct 2021
 PostDoc - Plant Sciences Department - University of California Davis / Jan 2016 - Oct 2016
@@ -16,7 +16,7 @@ Visiting PhD Student - Plant Sciences Department - University of California Davi
 ```
 
 #### Education
-```js
+```
 *   PhD Agronomic Sciences - University of Buenos Aires, Buenos Aires, Argentina - 2015
 *   BS/MS. Biotechnology - National University of San Martin, Buenos Aires, Argentina - 2010 
 ```
@@ -46,7 +46,7 @@ _VRN2_ genes. **Kippes N** et al. [Theor Appl Genet 2016](https://doi.org/10.100
 
 3. Genetic and physical mapping of the earliness per se locus Eps-Am1 in Triticum
 monococcum identifies _EARLY FLOWERING 3_ (_ELF3_) as a candidate gene.
-Alvarez MA et al. [Funct Integr Genomics 2016](https://doi.org/ 10.1007/s10142-016-0490-3)
+Alvarez MA et al. [Funct Integr Genomics 2016](https://doi.org/10.1007/s10142-016-0490-3)
 
 2. Identification of the _VERNALIZATION 4_ gene reveals the origin of spring growth habit
 in ancient wheats from South Asia.
@@ -55,9 +55,10 @@ in ancient wheats from South Asia.
 1. Fine mapping and epistatic interactions of the vernalization gene _VRN-D4_ in hexaploid
 wheat. **Kippes N** et al. [Mol Genet Genomics 2014](https://doi.org/10.1007/s00438-013-0788-y)
 
-
-
-
+#### Languages
+```
+English (Full professional proficiency) and Spanish (Native)
+'''
 
 ###### Header 6
 

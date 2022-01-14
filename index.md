@@ -7,7 +7,7 @@ I am a Plant Scientist at the University of California Davis specializing in Pla
 
 [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=-m5FPboAAAAJ&view_op=list_works&sortby=pubdate) - [**Publons**](https://publons.com/researcher/720901/nestor-kippes/) - [**Twitter**](https://www.twitter.com/nfkip) - [**Linkedin**](https://www.linkedin.com/in/nestorkippes/)
 
-Research
+#### Research
 During my PhD in the [Dubcovsky lab at UC Davis](https://dubcovskylab.ucdavis.edu/home) I studied  the genetic regulatory networks that module developmental growth in wheat with a focus on vernalization requirement and photoperiod response. As a post-doc researcher in the [Comai Lab](https://comailab.org/) at the [UCD Genome Center](https://genomecenter.ucdavis.edu/) I led the development and implementation of new genetic tools to initiate plant breeding of an orphan crop with an emphasis on flavor quality, disease resistance, and oil yield.![image](https://user-images.githubusercontent.com/22690275/149578584-3b5632e4-4753-4c63-a8fd-c1804bd91c19.png)
 
 #### Skills

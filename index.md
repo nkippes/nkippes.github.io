@@ -31,7 +31,7 @@ Visiting PhD Student - Plant Sciences Department - University of California Davi
 #### Publications
 
 1. Diploid mint (_M. longifolia_) can produce spearmint type oil with a high yield potential.
-**Kippes N** et al. [Nature Sci Rep 2021](https://doi.org/10.1038/s41598-021-02835-6)
+**Kippes N** et al. [Nature Sci Rep 2021](https://www.nature.com/articles/s41598-021-02835-6.pdf)
 
 1. Efficient construction of a linkage map and haplotypes for _Mentha suaveolens_ using
 sequence capture. Tsai H et al. [G3 2021](https://doi.org/10.1093/g3journal/jkab232)

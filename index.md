@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-![](https://github.com/nkippes/nkippes.github.io/raw/master/nk_lab.jpg)
-
-I am a Plant Scientist at the University of California Davis specializing in Plant Breeding and Genetics. Currently focused on combining classic and modern plant breeding tools to produce superior plant varieties. 
+![](https://github.com/nkippes/nkippes.github.io/raw/master/nk_lab.jpg) I am a Plant Scientist at the University of California Davis specializing in Plant Breeding and Genetics. Currently focused on combining classic and modern plant breeding tools to produce superior plant varieties. 
 
 [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=-m5FPboAAAAJ&view_op=list_works&sortby=pubdate) - [**Publons**](https://publons.com/researcher/720901/nestor-kippes/) - [**Twitter**](https://www.twitter.com/nfkip) - [**Linkedin**](https://www.linkedin.com/in/nestorkippes/)
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![](https://github.com/nkippes/nkippes.github.io/raw/master/nk.jpg)
+![](https://github.com/nkippes/nkippes.github.io/raw/master/nk_lab.jpg)
 
 I am a Plant Scientist at the University of California Davis specializing in Plant Breeding and Genetics. Currently focused on combining classic and modern plant breeding tools to produce superior plant varieties. 
 

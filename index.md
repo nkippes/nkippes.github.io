@@ -1,20 +1,21 @@
 ---
 layout: default
 ---
-I am a Plant Scientist at the University of California Davis specializing in Plant Breeding and Genetics. Currently focused on combining classic and modern plant breeding tools to produce superior plant varieties. 
+I am a Plant Scientist specializing in Plant Breeding and Genetics. Currently focused on combining classic and modern plant breeding tools to produce superior plant varieties. 
 
 [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=-m5FPboAAAAJ&view_op=list_works&sortby=pubdate) - [**Publons**](https://publons.com/researcher/720901/nestor-kippes/) - [**Twitter**](https://www.twitter.com/nfkip) - [**Linkedin**](https://www.linkedin.com/in/nestorkippes/)
 
 #### Research
-During my PhD in the [Dubcovsky lab at UC Davis](https://dubcovskylab.ucdavis.edu/home) I studied  the genetic regulatory networks that module developmental growth in wheat with a focus on vernalization requirement and photoperiod response. Currently, in the [Comai Laboratory](https://comailab.org/) at the [UCD Genome Center](https://genomecenter.ucdavis.edu/), I am leading the development and implementation of new genetic tools to initiate plant breeding of an orphan crop with an emphasis on flavor quality, disease resistance, and oil yield.
+During my PhD in the [Dubcovsky lab at UC Davis](https://dubcovskylab.ucdavis.edu/home) I studied  the genetic regulatory networks that module developmental growth in wheat with a focus on vernalization requirement and photoperiod response. As a PostDoctoral Researcher and Project Scientist, in the [Comai Laboratory](https://comailab.org/) at the [UCD Genome Center](https://genomecenter.ucdavis.edu/), I led the development and implementation of genetic and genomics tools to initiate plant breeding of an orphan crop with an emphasis on flavor quality, disease resistance, and oil yield.
 
 #### Skills
-Plant Breeding / Polyploid Crops / Agricultural Sciences / Plant Biotechnology
+Plant Breeding / Polyploid Crops / Agricultural Sciences / Plant Biotechnology 
 
 #### Professional Experience
 
 ```js
-Assistant Project Scientist - Genome Center - University of California Davis / Nov 2021 - current
+Genome-Guided Plant Breeding Lead - NuCicer - May 2022 - current
+Assistant Project Scientist - Genome Center - University of California Davis / Nov 2021 - May 2022
 PostDoc - Genome Center - University of California Davis / Nov 2016 - Oct 2021
 PostDoc - Plant Sciences Department - University of California Davis / Jan 2016 - Oct 2016
 Visiting PhD Student - Plant Sciences Department - University of California Davis / 2010 - 2015

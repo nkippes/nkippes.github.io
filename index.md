@@ -66,6 +66,9 @@ wheat. **Kippes N** et al. [Mol Genet Genomics 2014](https://doi.org/10.1007/s00
 
 English (Full professional proficiency) and Spanish (Native)
 
+#### Languages
+US / EU / ARG Citizen
+
 #### News
 [LINKEDIN: Hot N Cold. Menthol and temperature perception. Plants have found intricated ways to hack human temperature perception](https://www.linkedin.com/pulse/hot-n-cold-menthol-temperature-perception-nestor-kippes/)
 

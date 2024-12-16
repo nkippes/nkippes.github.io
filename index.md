@@ -30,6 +30,12 @@ Visiting PhD Student - Plant Sciences Department - University of California Davi
 
 #### Publications
 
+1. Velvet: An alternative high‐yielding peppermint clone for oil production.
+**Kippes N** et al. [Crop Science 2024](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/csc2.21421)
+
+1. Chromosome-scale assembly of apple mint (_M. suaveolens_).
+Firl et al. [BMC Genomic Data 2024](https://link.springer.com/article/10.1186/s12863-024-01278-y)
+
 1. Diploid mint (_M. longifolia_) can produce spearmint type oil with a high yield potential.
 **Kippes N** et al. [Nature Sci Rep 2021](https://www.nature.com/articles/s41598-021-02835-6.pdf)
 

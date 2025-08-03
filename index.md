@@ -76,6 +76,8 @@ English (Full professional proficiency) and Spanish (Native)
 US / EU / ARG
 
 #### News
+[UC ANR: Research spotlight](https://ucanr.edu/program/anr-research-and-extension-centers/article/nestor-kippes)
+
 [LINKEDIN: Hot N Cold. Menthol and temperature perception. Plants have found intricated ways to hack human temperature perception](https://www.linkedin.com/pulse/hot-n-cold-menthol-temperature-perception-nestor-kippes/)
 
 [UC DAVIS: Fourth Wheat Gene is Key to Flowering and Climate Adaptation](https://www.plantsciences.ucdavis.edu/news/fourth-wheat-gene-key-flowering-and-climate-adaptation)

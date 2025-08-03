@@ -14,7 +14,7 @@ Plant Breeding / Polyploid Crops / Agricultural Sciences / Plant Biotechnology
 #### Professional Experience
 
 ```js
-Director of Plant Breeding - NuCicer - May 2023 - current
+Director of Plant Breeding - NuCicer - May 2023 - April 2025
 Genome-Guided Plant Breeding Lead - NuCicer - May 2022 - April 2023
 Project Scientist - Genome Center - University of California Davis / Nov 2021 - May 2022
 Research Scientist - Genome Center - University of California Davis / Nov 2016 - Oct 2021

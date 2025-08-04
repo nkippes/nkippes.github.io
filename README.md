@@ -1,81 +1,64 @@
-# Personal Website
+# Your Personal Website
 
-A minimalistic personal website built with Hugo and the PaperMod theme.
+This is a minimalistic, stylish personal website built with pure HTML, CSS, and JavaScript. It features a clean design, cool fonts, and is ready for direct deployment to GitHub Pages.
 
-## Features
+## Pages Included
 
-- **Home**: Welcome page with profile information
-- **Experience**: Professional experience and skills
-- **CV**: Complete curriculum vitae
-- **Contact**: Contact form and social media links
+- **Home (`index.html`)**: Your main landing page.
+- **Experience (`experience.html`)**: Showcase your professional experience and skills.
+- **CV (`cv.html`)**: A detailed curriculum vitae.
+- **Contact (`contact.html`)**: A page with contact information and a client-side contact form.
 
-## Setup Instructions
+## How to Deploy to GitHub Pages
 
-1. **Create a new repository on GitHub:**
-   - Repository name **MUST BE**: `nkippes.github.io` (for personal GitHub Pages)
-   - Make sure the repository is public
+Follow these steps to get your website live on GitHub Pages:
 
-2. **Upload these files:**
-   - Upload all the files from this directory to your GitHub repository
-   - You can use GitHub Desktop, git command line, or the GitHub web interface
+1.  **Create a New GitHub Repository:**
+    *   Go to [github.com/new](https://github.com/new).
+    *   **Important:** For a personal website, the repository name **MUST BE** `your-github-username.github.io` (e.g., `nkippes.github.io`). This is crucial for GitHub Pages to automatically serve your site from the `main` branch.
+    *   Ensure the repository is **Public**.
 
-3. **Configure GitHub Pages:**
-   - Go to your repository settings
-   - Navigate to `Settings` → `Actions` → `General` → `Workflow permissions`
-   - Select `Read and write permissions` for GitHub Actions
-   - Go to `Settings` → `Pages` → `Build and deployment`
-   - Set `Source` to `Deploy from a branch`
-   - Set the branch to `gh-pages` (this will be created automatically after the first deployment)
+2.  **Upload the Website Files:**
+    *   Download the provided `.zip` file containing all the website files.
+    *   Extract the contents of the `.zip` file to a folder on your computer.
+    *   **Upload all the extracted files and folders (e.g., `index.html`, `css/`, `js/`, `experience.html`, `cv.html`, `contact.html`, `README.md`) directly to the root of your newly created GitHub repository.**
+        *   **Using GitHub Desktop:** Clone your empty `your-github-username.github.io` repository to your local machine. Copy all the extracted website files into this local folder. Then, commit and push these changes to GitHub.
+        *   **Using the Git Command Line:**
+            ```bash
+            git clone https://github.com/your-github-username/your-github-username.github.io.git
+            cd your-github-username.github.io
+            # Copy all extracted files into this directory
+            git add .
+            git commit -m "Initial website deployment"
+            git push origin main
+            ```
+        *   **Directly on GitHub (for smaller projects):** On your new empty repository page, click the "Add file" dropdown, then "Upload files...". Drag and drop all the extracted files and folders into the upload area.
 
-4. **Customize your content:**
-   - Edit `config.yml` to update your personal information
-   - Update the content files in the `content/` directory:
-     - `_index.md` (Home page)
-     - `experience.md` (Experience page)
-     - `cv.md` (CV page)
-     - `contact.md` (Contact page)
+3.  **Enable GitHub Pages:**
+    *   Once the files are uploaded to your `main` branch, GitHub Pages should automatically detect them.
+    *   Go to your repository on GitHub.
+    *   Navigate to `Settings` -> `Pages`.
+    *   Under "Build and deployment", ensure that "Source" is set to **`Deploy from a branch`** and the branch is set to **`main`** (or whatever branch you pushed your files to).
+    *   Click "Save" if you made any changes.
 
-5. **Set up the contact form (optional):**
-   - The contact form uses Formspree (free service)
-   - Sign up at https://formspree.io/
-   - Replace `your-form-id` in `contact.md` with your actual Formspree form ID
-
-## Local Development
-
-To run the site locally:
-
-1. Install Hugo: https://gohugo.io/getting-started/installing/
-2. Clone your repository
-3. Run `hugo server` in the project directory
-4. Open http://localhost:1313 in your browser
-
-## Deployment
-
-The site will automatically deploy to GitHub Pages when you push changes to the `main` branch. The GitHub Action will:
-
-1. Build the Hugo site
-2. Deploy it to the `gh-pages` branch
-3. GitHub Pages will serve the site from the `gh-pages` branch
-
-Your website will be available at: https://nkippes.github.io
+4.  **Access Your Website:**
+    *   After a few moments (it might take a minute or two for GitHub Pages to process), your website will be live and accessible at `https://your-github-username.github.io` (e.g., `https://nkippes.github.io`).
 
 ## Customization
 
-- **Theme**: This site uses the PaperMod theme. You can customize it by editing the `config.yml` file
-- **Colors**: The theme supports light/dark mode toggle
-- **Content**: All content is in Markdown format in the `content/` directory
-- **Styling**: Additional CSS can be added to customize the appearance
+-   **Content:** Edit the `.html` files directly to change the text content on each page.
+-   **Styling:** Modify `css/style.css` to change colors, fonts, layout, and other visual aspects.
+-   **Contact Form:** The contact form in `contact.html` uses [Formspree](https://formspree.io/) for submission. You will need to:
+    1.  Go to [Formspree.io](https://formspree.io/) and sign up for a free account.
+    2.  Create a new form and get your unique form endpoint ID.
+    3.  Open `contact.html` and replace `https://formspree.io/f/your-form-id` with your actual Formspree endpoint URL.
 
-## Support
+## Local Development
 
-If you encounter any issues:
+To view and test your website locally before uploading:
 
-1. Check the GitHub Actions tab for build errors
-2. Ensure GitHub Pages is configured correctly
-3. Verify that the repository name is exactly `nkippes.github.io`
-4. Make sure the repository is public
+1.  Simply open any of the `.html` files (e.g., `index.html`) in your web browser.
+2.  For the contact form to work locally, you might need a local server. Python has a simple one: `python -m http.server` in the root directory of your website, then navigate to `http://localhost:8000`.
 
-## License
-
-This project is open source and available under the MIT License.
+Enjoy your new website!
 

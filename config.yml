@@ -1,6 +1,6 @@
 baseURL: "https://nkippes.github.io"
 languageCode: "en-us"
-title: "Your Name - Personal Website"
+title: "Nestor Kippes"
 theme: "PaperMod"
 
 enableRobotsTXT: true
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production
-  title: "Your Name"
+  title: "Nestor Kippes"
   description: "Personal website showcasing my experience and work"
   keywords: [Blog, Portfolio, PaperMod]
   author: "Your Name"

@@ -1,6 +1,8 @@
 document.getElementById('year').textContent = new Date().getFullYear();
+
 const form = document.getElementById('contact-form');
 const status = document.getElementById('form-status');
+
 if (form) {
   form.addEventListener('submit', async function (event) {
     event.preventDefault();
@@ -16,7 +18,7 @@ if (form) {
       } else {
         status.textContent = "Oops! There was a problem.";
       }
-    }).catch(error => {
+    }).catch(() => {
       status.textContent = "Oops! Network error.";
     });
   });

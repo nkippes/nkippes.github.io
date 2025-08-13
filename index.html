@@ -1,76 +1,85 @@
-<!DOCTYPE html>
+<script type="text/javascript">
+        var gk_isXlsx = false;
+        var gk_xlsxFileLookup = {};
+        var gk_fileData = {};
+        function filledCell(cell) {
+          return cell !== '' && cell != null;
+        }
+        function loadFileData(filename) {
+        if (gk_isXlsx && gk_xlsxFileLookup[filename]) {
+            try {
+                var workbook = XLSX.read(gk_fileData[filename], { type: 'base64' });
+                var firstSheetName = workbook.SheetNames[0];
+                var worksheet = workbook.Sheets[firstSheetName];
+
+                // Convert sheet to JSON to filter blank rows
+                var jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1, blankrows: false, defval: '' });
+                // Filter out blank rows (rows where all cells are empty, null, or undefined)
+                var filteredData = jsonData.filter(row => row.some(filledCell));
+
+                // Heuristic to find the header row by ignoring rows with fewer filled cells than the next row
+                var headerRowIndex = filteredData.findIndex((row, index) =>
+                  row.filter(filledCell).length >= filteredData[index + 1]?.filter(filledCell).length
+                );
+                // Fallback
+                if (headerRowIndex === -1 || headerRowIndex > 25) {
+                  headerRowIndex = 0;
+                }
+
+                // Convert filtered JSON back to CSV
+                var csv = XLSX.utils.aoa_to_sheet(filteredData.slice(headerRowIndex)); // Create a new sheet from filtered array of arrays
+                csv = XLSX.utils.sheet_to_csv(csv, { header: 1 });
+                return csv;
+            } catch (e) {
+                console.error(e);
+                return "";
+            }
+        }
+        return gk_fileData[filename] || "";
+        }
+        </script><!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Home | Néstor Kippes</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Néstor Kippes - Agricultural Scientist</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <header>
-    <h1>Néstor Kippes</h1>
-    <nav>
-      <a href="index.html" class="active">Home</a>
-      <a href="cv.html">CV</a>
-      <a href="media.html">Media</a>
-      <a href="contact.html">Contact</a>
-    </nav>
-  </header>
+    <header>
+        <nav>
+            <div class="logo">Néstor Kippes</div>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
 
-  <main>
-    <section class="intro">
-      <img src="profile.jpg" alt="Profile Picture" class="profile-pic">
-      <h2>Welcome</h2>
-      <p>
-        I am an accomplished team leader and plant breeding scientist with over a decade of experience 
-        managing R&D initiatives in small grains, legumes, and clonally propagated aromatic crops. 
-        I thrive in collaborative environments, overseeing projects from conception to completion 
-        and aligning them with strategic goals.
-      </p>
-      <p>
-        My work combines strategic planning, technical innovation, and mentorship. 
-        I’ve built high-performing teams, secured funding for complex research programs, 
-        and delivered measurable outcomes in plant variety development and functional genomics.
-      </p>
-      <p>
-        With expertise ranging from molecular genetics to large-scale field trials, 
-        I focus on advancing agricultural science, developing improved crop varieties, 
-        and fostering innovation that benefits both industry and academia.
-      </p>
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1>Néstor Kippes</h1>
+            <p>Agricultural Scientist & Innovator</p>
+        </div>
     </section>
 
-    <section class="highlights">
-      <h2>Research Highlights</h2>
-      <div class="highlight-grid">
-        <div class="highlight-item">
-          <img src="highlight1.jpg" alt="Breeding Projects">
-          <p>
-            Led multi-year plant breeding programs delivering new varieties of mint and chickpea 
-            now cultivated across thousands of acres.
-          </p>
-        </div>
-        <div class="highlight-item">
-          <img src="highlight2.jpg" alt="Genomic Discovery">
-          <p>
-            Directed genomic discovery initiatives identifying genes controlling flowering time, 
-            vernalization, and quality traits in crops.
-          </p>
-        </div>
-        <div class="highlight-item">
-          <img src="highlight3.jpg" alt="Team Leadership">
-          <p>
-            Built and mentored high-performing, cross-functional teams driving 
-            innovation in plant science and applied research.
-          </p>
-        </div>
-      </div>
+    <section id="about" class="bio">
+        <h2>About Me</h2>
+        <p>With expertise ranging from molecular genetics to large-scale field trials, I focus on advancing agricultural science, developing improved crop varieties, and fostering innovation that benefits both industry and academia.</p>
     </section>
-  </main>
 
-  <footer>
-    <p>© <span id="year"></span> Néstor Kippes</p>
-  </footer>
-  <script src="script.js"></script>
+    <section id="contact" class="contact">
+        <h2>Contact</h2>
+        <p>Reach out to collaborate or learn more about my work.</p>
+        <a href="mailto:nestor@example.com" class="btn">Get in Touch</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Néstor Kippes. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>

@@ -85,9 +85,9 @@ button:hover {
 /* Profile Picture */
 .profile-pic {
   max-width: 180px;
-  border-radius: 50%;
   margin: 1rem auto;
   display: block;
+  /* Removed border-radius: 50%; to keep original shape */
 }
 
 /* Highlights section */
